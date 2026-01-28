@@ -21,7 +21,7 @@ This Python mini-project allows you to manage and analyze student grades from a 
 - Object-Oriented Programming (OOP)
 - Reading CSV files
 - Descriptive statistics
-- Conditional statements and loops
+- Conditional statements and 
 - User interaction (console)
 
 ---
